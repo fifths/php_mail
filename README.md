@@ -1,5 +1,6 @@
 # php_mail
 
+[![Build Status](https://travis-ci.org/fifths/php_mail.svg?branch=master)](https://travis-ci.org/fifths/php_mail)
 [![Latest Stable Version](https://poser.pugx.org/fifths/php_mail/v/stable)](https://packagist.org/packages/fifths/php_mail)
 [![Total Downloads](https://poser.pugx.org/fifths/php_mail/downloads)](https://packagist.org/packages/fifths/php_mail)
 [![Latest Unstable Version](https://poser.pugx.org/fifths/php_mail/v/unstable)](https://packagist.org/packages/fifths/php_mail)
