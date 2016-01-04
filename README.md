@@ -1,6 +1,15 @@
 # php_mail
 
+[![Latest Stable Version](https://poser.pugx.org/fifths/php_mail/v/stable)](https://packagist.org/packages/fifths/php_mail)
+[![Total Downloads](https://poser.pugx.org/fifths/php_mail/downloads)](https://packagist.org/packages/fifths/php_mail)
+[![Latest Unstable Version](https://poser.pugx.org/fifths/php_mail/v/unstable)](https://packagist.org/packages/fifths/php_mail)
+[![License](https://poser.pugx.org/fifths/php_mail/license)](https://packagist.org/packages/fifths/php_mail)
 
+### Installation
+
+    composer require fifths/php_mail
+
+### Quick Start and Examples
 
 ```
 require __DIR__ . "/../vendor/autoload.php";
